@@ -1,0 +1,1 @@
+# Yahoo-Finance-den-Veri-ekme
